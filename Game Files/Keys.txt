@@ -1,0 +1,6 @@
+Name:King Key
+Type:Key
+Name:Dragon Key
+Type:Key
+Name:Crown Key
+Type:Key

@@ -1,0 +1,15 @@
+Name:Red Pot
+Type:Health
+Value:5
+Name:Fairy
+Type:Health
+Value:30
+Name:Heart
+Type:Health
+Value:100
+Name:Milk
+Type:Health
+Value:15
+Name:Chu Jelly
+Type:Health
+Value:20

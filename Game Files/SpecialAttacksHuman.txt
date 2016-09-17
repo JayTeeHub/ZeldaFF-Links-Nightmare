@@ -1,0 +1,12 @@
+Name:Spin Strike
+Value:10
+Cost:2
+Level:4
+Name:Dins Fire
+Value:15
+Cost:4
+Level:8
+Name:Farores Wind
+Value:25
+Cost:12
+Level:12

@@ -1,0 +1,21 @@
+Name:Sheild
+Type:Armor
+Value:4
+Name:Deku Sheild
+Type:Armor
+Value:6
+Name:Hero Sheild
+Type:Armor
+Value:8
+Name:Fighter Sheild
+Type:Armor
+Value:10
+Name:Red Sheild
+Type:Armor
+Value:15
+Name:Sacred Sheild
+Type:Armor
+Value:40
+Name:Hylian Sheild
+Type:Armor
+Value:150

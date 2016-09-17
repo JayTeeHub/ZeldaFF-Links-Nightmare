@@ -1,0 +1,12 @@
+Name:Blue Pot
+Type:Mana
+Value:2
+Name:Magic Jars
+Type:Mana
+Value:5
+Name:Elixir Soup
+Type:Mana
+Value:10
+Name:Green Pot
+Type:Mana
+Value:15

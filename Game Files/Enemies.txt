@@ -1,0 +1,56 @@
+Name:Lizalfos
+Health:5
+AP:5
+Mana:3
+Armor:1
+Level:1
+Exp:5
+Name:Flare Dancer
+Health:8
+AP:10
+Mana:5
+Armor:0
+Level:3
+Exp:8
+Name:Stalfos
+Health:5
+AP:8
+Mana:3
+Armor:8
+Level:3
+Exp:12
+Name:Meg
+Health:2
+AP:15
+Mana:15
+Armor:1
+Level:5
+Exp:15
+Name:Gerudo Thief
+Health:5
+AP:25
+Mana:3
+Armor:0
+Level:8
+Exp:30
+Name:Iron Knuckle
+Health:10
+AP:4
+Mana:2
+Armor:30
+Level:8
+Exp:45
+Name:Dark Link
+Health:30
+AP:30
+Mana:15
+Armor:20
+Level:10
+Exp:70
+Name:Gohma
+Health:50
+AP:30
+Mana:15
+Armor:15
+Level:30
+Exp:100

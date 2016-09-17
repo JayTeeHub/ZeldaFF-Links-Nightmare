@@ -1,0 +1,22 @@
+Name:Boomerang
+Type:Ranged
+Value:6
+Name:Magic Boomerang
+Type:Ranged
+Value:10
+Name:Bomb
+Type:Ranged
+Value:22
+Name:Bow
+Type:Ranged
+Value:12
+Name:Bow of Light
+Type:Ranged
+Value:16
+
+
+
+
+
+
+

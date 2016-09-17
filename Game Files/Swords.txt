@@ -1,0 +1,27 @@
+Name:Noble Sword
+Type:Weapon
+Value:4
+Name:Heros Sword
+Type:Weapon
+Value:6
+Name:Razor Sword
+Type:Weapon
+Value:10
+Name:Magical Sword
+Type:Weapon
+Value:15
+Name:Phantom Sword
+Type:Weapon
+Value:20
+Name:Lokomo Sword
+Type:Weapon
+Value:50
+Name:Great Fairy Sword
+Type:Weapon
+Value:100
+Name:Biggoron Sword
+Type:Weapon
+Value:150
+Name:Master Sword
+Type:Weapon
+Value:250
